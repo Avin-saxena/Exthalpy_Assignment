@@ -24,20 +24,19 @@
 - MongoDB for the database.
 
 ### Steps
-
-**1****Backend Setup**
+**Backend Setup**
 cd backend
 npm install
 
-**2****frontend setup**
+**frontend setup**
 cd frontend
 npm install
 
-**3****Run the Application Locally**
-Backend
-cd backend
-node server.js
+**Run the Application Locally** <br>
+**Backend** <br>
+cd backend <br>
+node server.js <br>
 
-Frontend:
-cd frontend
-npm start
+**Frontend:** <br>
+cd frontend <br>
+npm start <br>
