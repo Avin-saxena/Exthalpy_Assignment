@@ -4,11 +4,17 @@
 
 ## 🚀 Features
 
-- **User Authentication:** Secure login and registration using JWT.
-- **Video Uploads:** Seamlessly upload and manage video files.
-- **User Management:** User dashboard for managing Videos and content.
-- **Secure Storage:** Reliable and safe storage of all video assets.
-- **Responsive Design:** Accessible on all devices with a modern UI.
+### Frontend (React/Bootstrap)
+- **Dynamic User Dashboard:** Real-time data rendering for seamless user interactions.
+- **Responsive UI Components:** Optimized designs for both mobile and desktop views, ensuring a consistent user experience across devices.
+
+### Backend (Node.js/Express)
+- **Authentication System:** Robust API access tokens with role-based permissions to secure user data and functionalities.
+- **Scalable Video Processing API:** Handles video processing tasks supporting up to 1000 seconds of footage, ensuring efficient performance under high loads.
+
+### Database Management (MongoDB Atlas)
+- **Optimized Queries:** Efficient storage and retrieval of large video metadata, enhancing application performance.
+- **Backup Strategy:** Real-time data backups for video processing without compromising system performance.
 
 ## 🛠 Technologies
 
