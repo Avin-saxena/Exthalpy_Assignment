@@ -12,7 +12,7 @@
 - **Authentication System:** Robust API access tokens with role-based permissions to secure user data and functionalities.
 - **Scalable Video Processing API:** Handles video processing tasks supporting up to 1000 seconds of footage, ensuring efficient performance under high loads.
 
-### Database Management (MongoDB Atlas)
+### Database Management (MongoDB )
 - **Optimized Queries:** Efficient storage and retrieval of large video metadata, enhancing application performance.
 - **Backup Strategy:** Real-time data backups for video processing without compromising system performance.
 
