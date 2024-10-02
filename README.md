@@ -6,7 +6,7 @@
 
 - **User Authentication:** Secure login and registration using JWT.
 - **Video Uploads:** Seamlessly upload and manage video files.
-- **User Management:** Admin dashboard for managing users and content.
+- **User Management:** User dashboard for managing Videos and content.
 - **Secure Storage:** Reliable and safe storage of all video assets.
 - **Responsive Design:** Accessible on all devices with a modern UI.
 
