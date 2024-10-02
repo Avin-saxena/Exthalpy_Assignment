@@ -1,0 +1,5 @@
+backend/uploads/*.mp4 filter=lfs diff=lfs merge=lfs -text
+backend/node_modules/@ffmpeg-installer/win32-x64/ffmpeg.exe filter=lfs diff=lfs merge=lfs -text
+backend/node_modules/@ffprobe-installer/win32-x64/ffprobe.exe filter=lfs diff=lfs merge=lfs -text
+*.mp4 filter=lfs diff=lfs merge=lfs -text
+*.exe filter=lfs diff=lfs merge=lfs -text
