@@ -3,7 +3,7 @@ import { useNavigate } from 'react-router-dom';
 import axios from 'axios';
 import { Form, Button, Alert, Container, InputGroup } from 'react-bootstrap';
 import { Eye, EyeOff } from 'lucide-react';
-import styles from './Register.module.css'; // Import custom styles
+import styles from '../styles/Register.module.css';
 
 function Register() {
   const [username, setUsername] = useState('');
@@ -19,7 +19,7 @@ function Register() {
   const navigate = useNavigate();
 
   useEffect(() => {
-    // Check password length (between 8 and 12 characters)
+    //checking password length (between 8 and 12 characters)
     setPasswordLengthValid(password.length === 0 || (password.length >= 8 && password.length <= 12));
     setPasswordMatch(password === confirmPassword);
   }, [password, confirmPassword]);

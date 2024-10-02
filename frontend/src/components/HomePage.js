@@ -1,8 +1,8 @@
 import React, { useContext, useCallback } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { AuthContext } from '../context/AuthContext';
-import PropTypes from 'prop-types'; // For prop type checking
-import styles from './HomePage.module.css';
+import PropTypes from 'prop-types'; 
+import styles from '../styles/HomePage.module.css';
 import {
   Container,
   Button,
@@ -66,7 +66,7 @@ function HomePage() {
                 transition={{ duration: 1 }}
               >
                 <Image
-                  src="/video.jpg" // Ensure this path is correct
+                  src="/video.jpg" 
                   alt="VideoApp Illustration"
                   fluid
                   className={`mb-4 ${styles.landingImage}`}

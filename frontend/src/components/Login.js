@@ -3,7 +3,7 @@ import { useNavigate } from 'react-router-dom';
 import { AuthContext } from '../context/AuthContext';
 import axios from 'axios';
 import { Form, Button, Alert, Container } from 'react-bootstrap';
-import styles from './Login.module.css'; // Import custom styles
+import styles from '../styles/Login.module.css'; 
 
 export function Login() {
   const { setAuth } = useContext(AuthContext);

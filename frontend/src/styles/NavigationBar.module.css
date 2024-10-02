@@ -1,0 +1,34 @@
+.navbar {
+    background-color: #f8f9fa;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1); 
+  }
+  
+  .nav-link {
+    color: #007bff; 
+    transition: color 0.3s ease;
+  }
+  
+  .nav-link:hover {
+    color: #0056b3;
+  }
+  
+  .navbar-brand {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #343a40; 
+  }
+  
+  .navbar-toggler {
+    border-color: #007bff;
+  }
+  
+  .logout-btn {
+    background-color: #dc3545; 
+    color: white;
+    transition: background-color 0.3s ease;
+  }
+  
+  .logout-btn:hover {
+    background-color: #c82333; 
+  }
+  
