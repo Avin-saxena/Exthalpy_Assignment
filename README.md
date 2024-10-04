@@ -1,4 +1,4 @@
-# Exthalpy Assignment Tasks
+# Video Uploading Real time Rendering Dashboard
 
 **VideoApp** is a full-stack web application designed to simplify video processing and management. It offers users an intuitive interface to upload, organize, and securely store their video content, making video management effortless and efficient.
 
