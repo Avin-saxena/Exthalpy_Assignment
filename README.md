@@ -41,8 +41,7 @@ npm install
 **Run the Application Locally** <br>
 **Backend** <br>
 
-**Video Demonstration of the App**
-[![Watch the Video](URL_of_Thumbnail_Image)](https://drive.google.com/file/d/1H-CCErBv4v10ep0IUysckzkEQ1ehsaHE/view?usp=sharing)
+
 
 cd backend <br>
 node server.js <br>
@@ -50,3 +49,6 @@ node server.js <br>
 **Frontend:** <br>
 cd frontend <br>
 npm start <br>
+
+**Video Demonstration of the App**
+[![Watch the Video](VideoApp)](https://drive.google.com/file/d/1H-CCErBv4v10ep0IUysckzkEQ1ehsaHE/view?usp=sharing)
