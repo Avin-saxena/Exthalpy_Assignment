@@ -42,9 +42,8 @@ npm install
 **Backend** <br>
 
 **Video Demonstration of the App**
-<a href="[URL_of_the_video](https://drive.google.com/file/d/1H-CCErBv4v10ep0IUysckzkEQ1ehsaHE/view?usp=sharing)">
-  <img src="VideoApp" alt="Watch the video">
-</a>
+[![Watch the Video](URL_of_Thumbnail_Image)](https://drive.google.com/file/d/1H-CCErBv4v10ep0IUysckzkEQ1ehsaHE/view?usp=sharing)
+
 cd backend <br>
 node server.js <br>
 
